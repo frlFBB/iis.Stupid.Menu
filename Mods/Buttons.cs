@@ -1,7 +1,7 @@
-﻿using iiMenu.Classes;
-using iiMenu.Mods;
-using iiMenu.Mods.Spammers;
-using iiMenu.Notifications;
+﻿using FBBSMenu.Classes;
+using FBBSMenu.Mods;
+using FBBSMenu.Mods.Spammers;
+using FBBSMenu.Notifications;
 using UnityEngine;
 using static iiMenu.Menu.Main;
 
